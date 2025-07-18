@@ -8,9 +8,11 @@
 - 🌱 Actualmente estudio la **Tecnicatura Universitaria en Programación** en UTN Rosario (último año).  
 - 👨‍💻 Todos mis proyectos están disponibles en [GitHub](https://github.com/Francesco-Dagostino?tab=repositories)  
 - 📫 Contacto: **Francescodagostino1889@gmail.com**  
-- 📲 Conéctate conmigo: <a href="https://instagram.com/frandagostino_" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="frandagostino_" height="20" width="25" style="vertical-align:middle;"/>
-</a>
+- 📲 Conéctate conmigo:
+  <a href="https://instagram.com/frandagostino_" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+         alt="Instagram" height="20" width="20" style="vertical-align: middle; margin-left: 5px;" />
+  </a>
 
 ---
 
